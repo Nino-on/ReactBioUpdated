@@ -19,7 +19,7 @@ function Navbar (){
               Settings
               </a>
               <div className="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a className="dropdown-item" href="#">Projects</a>
+                <a className="dropdown-item" href="/Projects">Projects</a>
                 <a className="dropdown-item" href="#">Contact Me</a>
                 <div className="dropdown-divider"></div>
                 <a className="dropdown-item" href="#">Log Out</a>

@@ -11,10 +11,11 @@ function App() {
   return (
     <div className="App">
   
-        <Router>
-          <Route exact path="/" component={About}/>
+        <Router basename="/">
+          
+          <Route  exact path="/" component={About}/>
           <Route exact path="/Projects" component={Projects}/>
-        
+     
         </Router>
     </div>
   );

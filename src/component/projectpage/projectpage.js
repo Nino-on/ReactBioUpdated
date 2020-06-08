@@ -2,7 +2,7 @@ import React from 'react';
 import Navbar from '../Navbar.js';
 
 
-function Main (){
+function Projects (){
     return (
      
         <div className="container">
@@ -14,4 +14,4 @@ function Main (){
     );
   }
 
-export default Main;
+export default Projects;

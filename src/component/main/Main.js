@@ -1,7 +1,7 @@
 import React from 'react';
-import Navbar from './Navbar.js';
-import Banner from './Banner.js';
-import AboutMe from './AboutMe.js';
+import Navbar from '../Navbar.js';
+import Banner from '../Banner.js';
+import AboutMe from '../AboutMe.js';
 
 
 function About (){

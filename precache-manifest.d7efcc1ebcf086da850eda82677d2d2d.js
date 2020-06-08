@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "65e25d4ffa2d2f892d7b396593bbcef0",
+    "revision": "f6faebfa3d509c8feaa8f7d1dd910f1f",
     "url": "/ReactBioUpdated/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ReactBioUpdated/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "2693fcac9783feaaa9a9",
+    "revision": "9e5f3ce880d73ab76064",
     "url": "/ReactBioUpdated/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ReactBioUpdated/static/js/2.50f53ecd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2693fcac9783feaaa9a9",
-    "url": "/ReactBioUpdated/static/js/main.3f7da9e0.chunk.js"
+    "revision": "9e5f3ce880d73ab76064",
+    "url": "/ReactBioUpdated/static/js/main.fc204798.chunk.js"
   },
   {
     "revision": "192b7aa7ee58fb4e7c51",

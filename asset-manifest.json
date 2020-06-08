@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ReactBioUpdated/static/css/main.5f361e03.chunk.css",
-    "main.js": "/ReactBioUpdated/static/js/main.3f7da9e0.chunk.js",
-    "main.js.map": "/ReactBioUpdated/static/js/main.3f7da9e0.chunk.js.map",
+    "main.js": "/ReactBioUpdated/static/js/main.fc204798.chunk.js",
+    "main.js.map": "/ReactBioUpdated/static/js/main.fc204798.chunk.js.map",
     "runtime-main.js": "/ReactBioUpdated/static/js/runtime-main.c0c45da0.js",
     "runtime-main.js.map": "/ReactBioUpdated/static/js/runtime-main.c0c45da0.js.map",
     "static/css/2.829c9cb5.chunk.css": "/ReactBioUpdated/static/css/2.829c9cb5.chunk.css",
     "static/js/2.50f53ecd.chunk.js": "/ReactBioUpdated/static/js/2.50f53ecd.chunk.js",
     "static/js/2.50f53ecd.chunk.js.map": "/ReactBioUpdated/static/js/2.50f53ecd.chunk.js.map",
     "index.html": "/ReactBioUpdated/index.html",
-    "precache-manifest.8a2d79e1c4c09a8830d0f1bb8e6963dc.js": "/ReactBioUpdated/precache-manifest.8a2d79e1c4c09a8830d0f1bb8e6963dc.js",
+    "precache-manifest.d7efcc1ebcf086da850eda82677d2d2d.js": "/ReactBioUpdated/precache-manifest.d7efcc1ebcf086da850eda82677d2d2d.js",
     "service-worker.js": "/ReactBioUpdated/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/ReactBioUpdated/static/css/2.829c9cb5.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/ReactBioUpdated/static/css/main.5f361e03.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.50f53ecd.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.3f7da9e0.chunk.js"
+    "static/js/main.fc204798.chunk.js"
   ]
 }

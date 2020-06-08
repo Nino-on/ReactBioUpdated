@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/http//nino-on.github.io/ReactBioUpdated/static/css/main.5f361e03.chunk.css",
+    "main.js": "/http//nino-on.github.io/ReactBioUpdated/static/js/main.6b3be7e2.chunk.js",
+    "main.js.map": "/http//nino-on.github.io/ReactBioUpdated/static/js/main.6b3be7e2.chunk.js.map",
+    "runtime-main.js": "/http//nino-on.github.io/ReactBioUpdated/static/js/runtime-main.9cd8e5e3.js",
+    "runtime-main.js.map": "/http//nino-on.github.io/ReactBioUpdated/static/js/runtime-main.9cd8e5e3.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/http//nino-on.github.io/ReactBioUpdated/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.50f53ecd.chunk.js": "/http//nino-on.github.io/ReactBioUpdated/static/js/2.50f53ecd.chunk.js",
+    "static/js/2.50f53ecd.chunk.js.map": "/http//nino-on.github.io/ReactBioUpdated/static/js/2.50f53ecd.chunk.js.map",
+    "index.html": "/http//nino-on.github.io/ReactBioUpdated/index.html",
+    "precache-manifest.21bbbfe416ad5a2a4e03c5341bf75289.js": "/http//nino-on.github.io/ReactBioUpdated/precache-manifest.21bbbfe416ad5a2a4e03c5341bf75289.js",
+    "service-worker.js": "/http//nino-on.github.io/ReactBioUpdated/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/http//nino-on.github.io/ReactBioUpdated/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/http//nino-on.github.io/ReactBioUpdated/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.50f53ecd.chunk.js.LICENSE.txt": "/http//nino-on.github.io/ReactBioUpdated/static/js/2.50f53ecd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cd8e5e3.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.50f53ecd.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.6b3be7e2.chunk.js"
+  ]
+}
